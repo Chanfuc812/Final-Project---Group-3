@@ -1,2 +1,1 @@
-# Final-Project---Group-3
-Group 3 have 5 members.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
